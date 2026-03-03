@@ -1,12 +1,12 @@
 :root {
-    --color-background: #a942fc;
+    --color-background: #9A00BF;
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
     --color-primary: #fff700;
-    --color-on-primary: #a942fc;
+    --color-on-primary: #9A00BF;
     --color-error: #de0000;
-    --color-on-error: #a942fc;
+    --color-on-error: #9A00BF;
 }
 
 main.dark,
