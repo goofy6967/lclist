@@ -4,15 +4,11 @@
     "author": "JustJohn",
     "creators": ["JustJohn"],
     "verifier": "Adrisomething",
-    "verification": "https://youtu.be/14y8pQ_yEdk?si=il22-kS58DACqOCB",
+    "verification": "https://www.youtube.com/watch?v=1NWDjWmbCG8",
     "percentToQualify": 100,
     "password": "",
     "records": [
         {
-            "user": "Adrisomething",
-            "link": "https://www.youtube.com/watch?v=1NWDjWmbCG8",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }
