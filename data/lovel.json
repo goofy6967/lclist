@@ -3,16 +3,12 @@
     "name": "lovel",
     "author": "WireMuncher",
     "creators": ["WireMuncher"],
-    "verifier": "WireMuncher",
+    "verifier": "Diimond",
     "verification": "https://www.youtube.com/watch?v=E_rN9kMQJQg",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Diimond",
-            "link": "https://drive.google.com/file/d/1oZAzSeTjqsvvpU-62OFUpdDs1cusnp9Y/view",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }
