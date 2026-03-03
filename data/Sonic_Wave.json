@@ -1,24 +1,18 @@
 {
-    "id": 57436521,
+    "id": 26681070,
     "name": "Sonic Wave",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "author": "Sunix",
+    "creators": ["Cyclic"],
+    "verifier": "Sunix",
+    "verification": "https://drive.google.com/file/d/10EZySyzuogmzAnGcthlKW8lVDZxwcQl9/view?t=2&pli=1",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "",
     "records": [
         {
             "user": "Phazon",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "link": "",
             "percent": 100,
             "hz": 144
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
         }
     ]
 }
