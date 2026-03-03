@@ -3,16 +3,12 @@
     "name": "Night Rider",
     "author": "ImAnubis",
     "creators": ["im not typing allat bruh"],
-    "verifier": "REDACTED",
-    "verification": "https://youtu.be/DuVMVHvVtes?si=0T_LWKqYLIX1nv2W",
+    "verifier": "Adrisomething",
+    "verification": "https://www.youtube.com/watch?v=EC_dZbzQ4wo",
     "percentToQualify": "100",
     "password": "",
     "records": [
         {
-            "user": "Adrisomething",
-            "link": "https://www.youtube.com/watch?v=EC_dZbzQ4wo",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }
