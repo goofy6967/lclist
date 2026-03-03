@@ -4,13 +4,13 @@
     "author": "Sunix",
     "creators": ["Cyclic"],
     "verifier": "Sunix",
-    "verification": "https://drive.google.com/file/d/10EZySyzuogmzAnGcthlKW8lVDZxwcQl9/view?t=2&pli=1",
+    "verification": "https://youtu.be/rIQOQq17ayA?si=i3SJco1tHsuWH6T4",
     "percentToQualify": "100",
     "password": "",
     "records": [
         {
             "user": "Phazon",
-            "link": "",
+            "link": "https://drive.google.com/file/d/10EZySyzuogmzAnGcthlKW8lVDZxwcQl9/view?t=2",
             "percent": 100,
             "hz": 144
         }
