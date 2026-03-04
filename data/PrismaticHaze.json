@@ -1,0 +1,18 @@
+{
+    "id": 59899374,
+    "name": "Prismatic Haze",
+    "author": "Moosh",
+    "creators": ["Moosh"],
+    "verifier": "pinkywinkyy",
+    "verification": "https://youtu.be/nQJUgYUL8Qw?si=z-A4-kpdfsRACnKs",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+              {
+            "user": "Adrisomething",
+            "link": "https://www.youtube.com/watch?v=aTaD874Jf7g",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
