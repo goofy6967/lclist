@@ -8,5 +8,23 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
+              {
+            "user": "pinkywinkyy",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "LeenaTheFox",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "MajMajMaj",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
