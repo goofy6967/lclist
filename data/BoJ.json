@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
+              {
+            "user": "LeenaTheFox",
+            "link": "https://medal.tv/games/geometry-dash/clips/mXUgd0mGeXsNF25wg?invite=cr-MSxjWk0sNjYwMjQwNzg0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
