@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
+              {
+            "user": "Phazon",
+            "link": "https://drive.google.com/file/d/1JXKTxETuJIAcXNR7kUKbjtcKEg4sFPg-/view?usp=sharing",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
