@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
+              {
+            "user": "LeenaTheFox",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "Diimond",
+            "link": "https://drive.google.com/file/d/1Zuj8bRdvyOPCoa9YRhx3GPZ8z4LVtcbs/view?usp=sharing",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
